@@ -11,7 +11,7 @@ Some of the classes could have been extended with a common Abstract class.
 
 I would also improve upon by expanding the unit tests.
 
-I would also implement OpenAPI Swagger deinitions to document the api.
+I would also implement OpenAPI Swagger definitions to document the api.
 
 ## Running
 Starting the backend:
