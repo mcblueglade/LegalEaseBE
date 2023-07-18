@@ -12,6 +12,7 @@ Some of the classes could have been extended with a common Abstract class.
 I would also improve upon by expanding the unit tests.
 
 I would also implement OpenAPI Swagger definitions to document the api.
+Could probably remove also the EAGERLY fetching of the entities.
 
 ## Running
 Starting the backend:
